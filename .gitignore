@@ -1,0 +1,25 @@
+# Dataset
+Data/
+data/
+*.rar
+*.zip
+*.7z
+
+# Model weights
+*.pth
+*.pt
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db

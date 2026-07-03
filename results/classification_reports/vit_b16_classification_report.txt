@@ -1,0 +1,10 @@
+Classification Report - ViT-B/16
+
+Accuracy: 98.87%
+
+Classe        Precision   Recall   F1-score   Support
+Melanoma      0.97        0.98     0.97       59
+Carcinoma     0.98        0.96     0.97       51
+Eczema        1.00        1.00     1.00       155
+
+Weighted avg  0.99        0.99     0.99       265

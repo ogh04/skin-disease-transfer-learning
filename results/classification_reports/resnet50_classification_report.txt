@@ -1,0 +1,10 @@
+Classification Report - ResNet-50
+
+Accuracy: 98.87%
+
+Classe        Precision   Recall   F1-score   Support
+Melanoma      1.00        0.95     0.97       59
+Carcinoma     0.96        1.00     0.98       51
+Eczema        0.99        1.00     1.00       155
+
+Weighted avg  0.99        0.99     0.99       265
